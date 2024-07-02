@@ -1,4 +1,4 @@
-import 'package:awesome_select/awesome_select.dart';
+import 'package:mrwork_awesome_select/awesome_select.dart';
 import 'package:collection/collection.dart' show IterableExtension;
 import 'package:flutter/material.dart';
 

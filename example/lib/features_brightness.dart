@@ -1,6 +1,6 @@
 import 'package:awesomeselect/theme/theme.dart';
 import 'package:flutter/material.dart';
-import 'package:awesome_select/awesome_select.dart';
+import 'package:mrwork_awesome_select/awesome_select.dart';
 
 class FeaturesBrightness extends StatefulWidget {
   @override

@@ -23,7 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  awesome_select:
+  mrwork_awesome_select:
     path: ../
   dio: ^4.0.6
   sticky_headers: ^0.3.0+2

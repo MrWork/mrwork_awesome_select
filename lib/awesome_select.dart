@@ -1,4 +1,4 @@
-library awesome_select;
+library mrwork_awesome_select;
 
 export 'src/widget/s2_multiple_state.dart';
 export 'src/widget/s2_single_state.dart';

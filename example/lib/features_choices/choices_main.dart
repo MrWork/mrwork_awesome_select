@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sticky_headers/sticky_headers.dart';
+import 'package:mrwork_awesome_select/sticky_headers.dart';
 import './choices_grouped.dart';
 import './choices_divider.dart';
 import './choices_builder.dart';

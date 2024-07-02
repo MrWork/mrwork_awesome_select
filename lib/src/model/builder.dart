@@ -1,4 +1,4 @@
-import 'package:awesome_select/awesome_select.dart';
+import 'package:mrwork_awesome_select/awesome_select.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
 

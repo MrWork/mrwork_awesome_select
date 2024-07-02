@@ -1,5 +1,5 @@
 import 'package:async/async.dart';
-import 'package:awesome_select/awesome_select.dart';
+import 'package:mrwork_awesome_select/awesome_select.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 

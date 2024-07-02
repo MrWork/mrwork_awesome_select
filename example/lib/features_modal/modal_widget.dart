@@ -1,4 +1,4 @@
-import 'package:awesome_select/awesome_select.dart';
+import 'package:mrwork_awesome_select/awesome_select.dart';
 import 'package:flutter/material.dart';
 
 class FeaturesModalWidget extends StatefulWidget {
